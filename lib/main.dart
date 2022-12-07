@@ -58,6 +58,10 @@ class _QuizPageState extends State<QuizPage> {
             Icon(
               Icons.close,
               color: Colors.orange,
+            ),
+             Icon(
+              Icons.close,
+              color: Colors.orange,
             ),        
 
 
