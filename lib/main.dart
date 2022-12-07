@@ -68,6 +68,24 @@ class _QuizPageState extends State<QuizPage> {
               color: Colors.orange,
             ),        
 
+             Icon(
+              Icons.close,
+              color: Colors.green,
+            ),        
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
 
   ];
   @override
